@@ -1,4 +1,6 @@
 streamlit
 requests
-google-generativeai==0.3.2
+google-generativeai==0.8.5
+protobuf==4.25.3
+google-auth==2.29.0
 streamlit-lottie
