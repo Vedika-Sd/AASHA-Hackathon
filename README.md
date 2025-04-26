@@ -53,6 +53,9 @@ For queries, feedback, or collaboration:
 Vedika S. – GitHub Profile
 dnyanesshwari - GitHub Profile
 
+## 📸 Chatbot Preview
+![AASHA Chatbot Screenshot](assets/chatbot_screenshot.png)
+
 ## 📦 Run Locally
 
 ```bash
