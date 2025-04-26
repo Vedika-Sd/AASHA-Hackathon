@@ -54,7 +54,7 @@ Vedika S. – GitHub Profile
 dnyanesshwari - GitHub Profile
 
 ## 📸 Chatbot Preview
-![AASHA Chatbot Screenshot](assets/chatbot_screenshot.png)
+![AASHA Chatbot Screenshot](AASHA-Hackathon/WhatsApp Image 2025-04-26 at 15.13.30_57e2940b.jpg)
 
 ## 📦 Run Locally
 
