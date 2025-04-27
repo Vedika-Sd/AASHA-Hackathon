@@ -1,64 +1,60 @@
-## 🌸 AASHA AI Chatbot
-Empowering Careers, One Conversation at a Time
+# 🌸 AASHA AI Chatbot 🌸  
+**Empowering Careers, One Conversation at a Time**  
 An AI-powered career assistant designed for women to explore jobs, internships, and upskilling opportunities with empathetic support.
 
+---
+## 📖 Overview  
 
-#🚀 Features
--✨ AI-driven career guidance and job support
--🎯 Skill-gap analysis and recommendations
--💬 Empathetic conversational AI
--📚 Integrated FAQs and resources
--🎨 Animated, engaging sidebar visuals using Lottie
+**AASHA AI** is an AI-powered career assistant chatbot designed specially for women to explore job opportunities, internships, upskilling resources, and receive mental health support during their career journey.  
+Built for the **AASHA Hackathon 2025**, this chatbot combines conversational AI, ethical AI practices, and personalized recommendations to empower and uplift women in their professional space.
 
-#🛠️ Built With
-- Streamlit (Frontend Interface)
-- Gemini API (Conversational AI Backend)
-- Python (Core Logic)
-- Lottie Animations (Visual Enhancements)
+---
 
-#Setup Instructions
-1.Clone the repository:
+## 🚀 Features  
 
-    bash
-    Copy
-    Edit
-    git clone https://github.com/Vedika-Sd/AASHA-Hackathon.git
-    cd AASHA-Hackathon
+- ✨ **AI-Driven Career Guidance:** Simulated job and internship opportunities with tailored suggestions.
+- 🎯 **Skill-Gap Analysis & Session Recommendations:** Get relevant courses and learning materials as per your interest.
+- 💬 **Empathetic Conversational AI:** Understands user emotions and triggers confidence-boosting responses.
+- 🌸 **Women-Centric Government Schemes & Policies:** Quick info on maternity leave, safety policies, and girl child schemes.
+- ⚠️ **Ethical AI Bias Detection:** Detects and restricts biased or discriminatory requests.
+- 🎨 **Lottie-Powered Engaging Sidebar:** Animated, friendly visuals for an aesthetic, stress-free experience.
+- 📝 **Session-based Memory Handling:** Remembers previous messages within a session for smooth conversations.
+- 🛡️ **Fallback Handling:** Polite, appropriate responses to unrecognized inputs.
 
-2.Install dependencies:
+---
 
-    bash
-    Copy
-    Edit
-    pip install -r requirements.txt
+## 🛠️ Tech Stack  
 
-3.Run the app:
+| Component     | Details                          |
+|:--------------|:--------------------------------|
+| **Frontend**   | Streamlit                        |
+| **Backend AI** | Gemini API (Generative AI)        |
+| **Logic**      | Python (Chatbot logic + API calls)|
+| **Visuals**    | Lottie Animations (Animated Sidebar)|
 
-    bash
-    Copy
-    Edit
-    streamlit run aasha.py
+---
 
-#📈 Future Scope
-1.Personalized career path suggestions
+🔗 Try the chatbot live here: https://aasha-hackathon-8th29yzp3bjhccastxhpnz.streamlit.app/
 
-2.Resume review & feedback generation
+---
 
-3.Multilingual support for broader reach
+# 📈 Future Scope
+- User Profile Integration: Personalize job suggestions using user profiles
+- Dashboard Analytics: Track user queries, popular intents, and success rates
+- Multilingual Support: Expand accessibility with Hindi, Tamil & regional language support
+- Mobile App Version: Build a lightweight companion app for broader reach
+- Voice Support: Add voice input/output for seamless interaction
+- Privacy Enhancements: Optional login & encrypted session data for added security
+- Community Forums: Connect users with mentors and peer groups
 
-4.Advanced emotional intelligence integration
+---
 
-#📬 Contact
+## 📬 Contact
+
 For queries, feedback, or collaboration:
-Vedika S. – GitHub Profile
-dnyanesshwari - GitHub Profile
 
-## 📸 Chatbot Preview
-![AASHA Chatbot Screenshot](AASHA-Hackathon/WhatsApp Image 2025-04-26 at 15.13.30_57e2940b.jpg)
+- 👩‍💻 [Vedika Sardeshmukh](https://github.com/Vedika-Sd)
+- 👩‍💻 [Dnyaneshwari Pawar](https://github.com/dnyanesshwari)
 
-## 📦 Run Locally
 
-```bash
-pip install -r requirements.txt
-streamlit run app.py
- 
+
